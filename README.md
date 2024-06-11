@@ -22,8 +22,16 @@ npm run dev
 
 ## Output:
 
+Starting page of the project.
+
 ![Starting Page](https://github.com/Rexon-Pambujya/PlaceVisitPicker/blob/main/images/Image1.png)
+
+List of places filtered based on the location.
 
 ![List of Places](https://github.com/Rexon-Pambujya/PlaceVisitPicker/blob/main/images/image2.png)
 
+Confirmation Pop up before removing the project.
+
 ![Pop up while removing the image](https://github.com/Rexon-Pambujya/PlaceVisitPicker/blob/main/images/Image3.png)
+
+Thank you! for going through the project.
