@@ -19,3 +19,11 @@ This command will start the devlopement server.
 ```
 npm run dev
 ```
+
+## Output:
+
+![Starting Page](E:\React\PlacesToVisitSideEffectUseEffect\01-starting-project\images\Image1.png)
+
+![List of Places](E:\React\PlacesToVisitSideEffectUseEffect\01-starting-project\images\image2.png)
+
+![Pop up while removing the image](E:\React\PlacesToVisitSideEffectUseEffect\01-starting-project\images\Image3.png)
