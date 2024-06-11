@@ -22,8 +22,8 @@ npm run dev
 
 ## Output:
 
-![Starting Page](E:\React\PlacesToVisitSideEffectUseEffect\01-starting-project\images\Image1.png)
+![Starting Page](https://github.com/Rexon-Pambujya/PlaceVisitPicker/blob/main/images/Image1.png)
 
-![List of Places](E:\React\PlacesToVisitSideEffectUseEffect\01-starting-project\images\image2.png)
+![List of Places](https://github.com/Rexon-Pambujya/PlaceVisitPicker/blob/main/images/image2.png)
 
-![Pop up while removing the image](E:\React\PlacesToVisitSideEffectUseEffect\01-starting-project\images\Image3.png)
+![Pop up while removing the image](https://github.com/Rexon-Pambujya/PlaceVisitPicker/blob/main/images/Image3.png)
